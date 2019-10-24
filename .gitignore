@@ -1,3 +1,6 @@
 outputs/*
 AlgorithmAndDS/*
 Codes/LinkedList/SinglyLL
+.vscode/tasks.json
+.vscode/launch.json
+Codes/LinkedList/SinglyLL-Operations
